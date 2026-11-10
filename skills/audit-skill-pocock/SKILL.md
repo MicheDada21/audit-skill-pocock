@@ -4,7 +4,7 @@ description: "Audits a skill or agent instructions rule by rule against Matt Poc
 disable-model-invocation: true
 ---
 
-# Audit a skill with Pocock's writing rules
+# Audit skill Pocock
 
 ## References
 
