@@ -1,10 +1,10 @@
 {
-  "name": "pocock-writing-agents",
+  "name": "audit-skill-pocock",
   "description": "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan for approval. Use when the user asks to review, audit or tighten a SKILL.md, an AGENTS.md or a prompt for agents.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/pocock-writing-agents",
-  "repository": "https://github.com/MicheDada21/pocock-writing-agents",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/audit-skill-pocock",
+  "repository": "https://github.com/MicheDada21/audit-skill-pocock",
   "license": "MIT"
 }
