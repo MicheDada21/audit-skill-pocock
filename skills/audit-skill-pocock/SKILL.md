@@ -1,6 +1,6 @@
 ---
 name: audit-skill-pocock
-description: "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan for approval. Use when the user asks to review, audit or tighten a SKILL.md, an AGENTS.md or a prompt for agents."
+description: "Audits a skill or agent instructions rule by rule against Matt Pocock's writing-for-agents guidance and Theo's additions, then drafts a refactoring plan. Use when tightening a SKILL.md, AGENTS.md or prompt."
 disable-model-invocation: true
 ---
 
